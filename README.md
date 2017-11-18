@@ -1,1 +1,1 @@
-CI stack
+*CI stack
